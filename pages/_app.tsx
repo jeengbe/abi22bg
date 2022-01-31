@@ -1,8 +1,6 @@
-import '../styles/globals.css'
-import type { AppProps } from 'next/app'
+import type { AppProps } from 'next/app';
+import '../styles/globals.scss';
 
-function MyApp({ Component, pageProps }: AppProps) {
+export default function Abi22BG({ Component, pageProps }: AppProps) {
   return <Component {...pageProps} />
 }
-
-export default MyApp
