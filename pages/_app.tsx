@@ -1,6 +1,16 @@
+import { ApolloClient, ApolloProvider, InMemoryCache } from '@apollo/client';
 import type { AppProps } from 'next/app';
 import '../styles/globals.scss';
 
+export const client = new ApolloClient({
+  uri: "http://localhost:3000/api/graphql",
+  cache: new InMemoryCache(),
+});
+
 export default function Abi22BG({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />
+  return (
+    <ApolloProvider client={client}>
+      <Component {...pageProps} />
+    </ApolloProvider>
+  );
 }

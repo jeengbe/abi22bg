@@ -1,8 +1,9 @@
 import { ApolloServer } from "apollo-server-micro";
 import { Database } from "arangojs";
 import type { NextApiRequest, NextApiResponse } from "next";
+import { me as meAccount } from "../../api/account/account";
+import { login } from "../../api/login";
 import typeDefs from "../../api/schema.graphql";
-import { login } from "../../api/user/login";
 import { user as getUser, users as listUsers } from "../../api/users/users";
 
 const db = new Database({
@@ -12,6 +13,7 @@ const db = new Database({
 
 const resolvers = {
   Query: {
+    me: meAccount,
     users: listUsers,
     user: getUser
   },
