@@ -7,7 +7,7 @@ export default function Index() {
 
   useRequireLogin(() =>
     router.replace({
-      pathname: "/benutzer",
+      pathname: "/eingeben",
     })
   );
 

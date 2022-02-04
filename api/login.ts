@@ -46,11 +46,17 @@ export function requireLogin(req: NextApiRequest) {
 }
 
 export async function login(_: any, { username, password }: { username: string, password: string; }, { db }: { db: Database; }) {
-  const user = await db.query(aql`
+  let user;
+  try {
+    user = await db.query(aql`
         FOR u IN users
           FILTER u.username == ${username} && u.password == ${sha256(password)}
           RETURN u
       `);
+  } catch (e) {
+    console.dir(e)
+    throw new Error("Internal error");
+  }
 
   if (!user.hasNext) {
     throw new Error('Invalid credentials');

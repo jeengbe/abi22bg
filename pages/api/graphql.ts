@@ -4,11 +4,15 @@ import type { NextApiRequest, NextApiResponse } from "next";
 import { me as meAccount } from "../../api/account/account";
 import { login } from "../../api/login";
 import typeDefs from "../../api/schema.graphql";
-import { user as getUser, users as listUsers } from "../../api/users/users";
+import { createComment, updateMe, user as getUser, users as listUsers } from "../../api/users/users";
 
 const db = new Database({
-  url: "http://localhost:8529",
-  databaseName: "abi22bg"
+  url: "http://arangodb:8529",
+  databaseName: "abi22bg",
+  auth: {
+    username: "root",
+    password: "aJy@+'<RP2~68Kf9"
+  }
 });
 
 const resolvers = {
@@ -18,7 +22,9 @@ const resolvers = {
     user: getUser
   },
   Mutation: {
-    login
+    login,
+    updateMe,
+    createComment
   }
 };
 

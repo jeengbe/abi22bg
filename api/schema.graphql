@@ -9,18 +9,54 @@ type Account {
 }
 
 type User {
-  id: ID!
   username: ID!
   name: String!
-  email: String
   birthDate: Int
   photo: String
+}
+
+extend type User {
+  spitzname: String!
+  motto: String!
+  geb: String!
+  lks: String!
+  buddy: String!
+  herzKurs: String!
+  hassKurs: String!
+  klasse5: String!
+  jahre: String!
+  ereignis: String!
+  lw: String!
+  unpopular: String!
+  hilfe: String!
+  lehrer: String!
+  kp: String!
+  random: String!
+  gedicht: String!
+  rip: String!
+}
+
+type Comment {
+  id: ID!
+  user: User
+  text: String!
+  date: String!
+}
+
+extend type User {
+  comments: [Comment!]!
 }
 
 type LoginResult {
   token: String!
 }
 
+type MutationResult {
+  success: Boolean!
+}
+
 type Mutation {
   login(username: String!, password: String!): LoginResult
+  updateMe(key: String!, value: String): MutationResult
+  createComment(anonymously: Boolean!, username: String!, text: String!): Comment
 }

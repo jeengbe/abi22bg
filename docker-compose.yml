@@ -1,0 +1,25 @@
+version: "3.4"
+
+networks:
+  arango:
+   external: false
+
+services:
+  arangodb:
+    image: arangodb/arangodb
+    container_name: arangodb
+    ports:
+      - "8529:8529"
+    environment:
+      - ARANGO_ROOT_PASSWORD=aJy@+'<RP2~68Kf9
+    networks:
+      - arango
+    volumes:
+      - /var/lib/arangodb:/var/lib/arangodb
+  nextjs:
+    image: abi22bg
+    container_name: abi22bg
+    ports:
+      - "3000:3000"
+    networks:
+      - arango

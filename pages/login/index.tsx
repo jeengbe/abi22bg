@@ -1,5 +1,6 @@
 import { gql } from "@apollo/client";
 import cookies from "js-cookie";
+import Link from "next/link";
 import { useRouter } from "next/router";
 import { useState } from "react";
 import { Button } from "../../components/Button";
@@ -59,6 +60,7 @@ export default function Login() {
           <Form.Form onSubmit={() => login(username, password, setLoading, setError)}>
             <Form.Input autoComplete="username" type="text" label="Benutzername" value={username} onChange={setUsername} />
             <Form.Input autoComplete="password" type="password" label="Passwort" value={password} onChange={setPassword} />
+            <p className="text-sm">Mit der Anmeldung erkläre ich mich mit der <Link href="/datenschutz"><a className="text-indigo-500">Datenschutzerklärung</a></Link> einverstanden.</p>
             <div>
               <Button variant={"primary"} type="submit" disabled={loading}>
                 {loading && (
