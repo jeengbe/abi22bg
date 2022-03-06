@@ -15,7 +15,7 @@ services:
     networks:
       - arango
     volumes:
-      - /var/lib/arangodb:/var/lib/arangodb
+      - /var/lib/arangodb3:/var/lib/arangodb3
   nextjs:
     image: abi22bg
     container_name: abi22bg

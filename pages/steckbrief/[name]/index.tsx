@@ -3,7 +3,7 @@ import { gql } from "apollo-server-micro";
 import Head from "next/head";
 import Link from "next/link";
 import { useRouter } from "next/router";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import LoadingSpinner from "../../../components/LoadingSpinner";
 import { useRequireLogin } from "../../../misc/utils";
 import { client } from "../../_app";
@@ -16,7 +16,12 @@ export default function Steckbrief() {
     name: string;
   };
 
+
   const [ownComments, setOwnComments] = useState<Comment[]>([]);
+
+  useEffect(() => {
+    setOwnComments([]);
+  }, [username]);
 
   const data = useQuery(gql`
     query($username: ID!) {
@@ -86,8 +91,6 @@ export default function Steckbrief() {
     } }
   } = data;
 
-  console.log([...comments, ...ownComments]);
-
   return (
     <>
       <Head>
@@ -147,7 +150,6 @@ export default function Steckbrief() {
 function Photo({ photo }: {
   photo: string;
 }) {
-  console.log(photo);
   return <img src={photo} className="rounded-lg shadow-2xl hidden lg:block" />;
 }
 

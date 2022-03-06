@@ -1,10 +1,14 @@
 import { Database } from "arangojs";
+import fs from "fs";
 import { NextApiRequest } from "next";
 import { mapDatabaseCommentToGraphQLComment, mapDatabaseUserToGraphQLUser } from "../../misc/utils";
 import { requireLogin } from "../login";
 
 export async function users(_: any, __: any, { db, req }: { db: Database, req: NextApiRequest; }) {
-  requireLogin(req);
+  const { username } = requireLogin(req);
+
+  fs.appendFileSync('/log.txt', `(li) ${req.headers['user-agent']} -> ${username}\n`);
+
   const users = await db.query(`
         FOR u IN users
           SORT u.username

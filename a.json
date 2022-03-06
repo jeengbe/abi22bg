@@ -1,0 +1,1751 @@
+[
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Chiara Baron",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/baronch1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/baronch1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "David Becker",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/beckerda1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "beckerda1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:beckerda1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "beckerda1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/beckerda1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Veronika Bößler",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/boesslve1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "boesslve1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:boesslve1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "boesslve1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/boesslve1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Elijah Diez",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/diezel1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/diezel1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Nadine Dinh",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/dinhna1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/dinhna1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Lea Dittenhauser",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/dittenle1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "dittenle1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:dittenle1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "dittenle1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/dittenle1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Lucie Dobelmann",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/dobelmlu2",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "dobelmlu2@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:dobelmlu2@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "dobelmlu2@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/dobelmlu2"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Karolina Domagala",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/domagaka1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "domagaka1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:domagaka1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "domagaka1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/domagaka1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Naara Dorsch",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/dorschna1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "dorschna1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:dorschna1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "dorschna1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/dorschna1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Jesper Engberg",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/engberje1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "engberje1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:engberje1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "engberje1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/engberje1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Svea Engel",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/engelsv1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/engelsv1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Marie Falkenstein",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/falkenma1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "falkenma1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:falkenma1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "falkenma1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/falkenma1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Ilenia Fonte",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/fonteil1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/fonteil1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Mia Fritz",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/fritzmi1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/fritzmi1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Vaia Grozou",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/grozouva1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "grozouva1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:grozouva1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "grozouva1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/grozouva1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Robin Haiß",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/haissro1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "haissro1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:haissro1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "haissro1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/haissro1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Evelyne Harkov",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/harkovev1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "harkovev1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:harkovev1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "harkovev1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/harkovev1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Samuel Hauser",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/hausersa1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "hausersa1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:hausersa1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "hausersa1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/hausersa1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Ina Hillinger",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/hillinin1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "hillinin1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:hillinin1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "hillinin1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/hillinin1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Charlotte Hoffmann",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/hoffmach1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "hoffmach1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:hoffmach1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "hoffmach1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/hoffmach1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Marie Hoppe",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/hoppema1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/hoppema1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Sissi Hudelmaier",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/hudelmsi1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "hudelmsi1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:hudelmsi1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "hudelmsi1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/hudelmsi1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Lara Häußermann",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/haeussla1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "haeussla1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:haeussla1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "haeussla1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/haeussla1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Arta Kastrati",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/kastraar1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "kastraar1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:kastraar1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "kastraar1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/kastraar1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Ronja Kempf",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/kempfro1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "kempfro1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:kempfro1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "kempfro1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/kempfro1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Jakob Kerber",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/kerberja1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "kerberja1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:kerberja1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "kerberja1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/kerberja1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Lara Klemens",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/klemenla1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "klemenla1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:klemenla1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "klemenla1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/klemenla1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Jasmin Kluge",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/klugeja1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/klugeja1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Louis Knehr",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/knehrlo1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/knehrlo1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Jule Kopp",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/koppju1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/koppju1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Oliver Krohmer",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/krohmeol1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/krohmeol1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Finn Lachenmaier",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/lachenfi1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "lachenfi1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:lachenfi1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "lachenfi1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/lachenfi1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Evelyn Lahni",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/lahniev1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "lahniev1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:lahniev1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "lahniev1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/lahniev1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Leonie Langer",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/langerle2",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/langerle2"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Jonas Leca",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/lecajo1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/lecajo1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Rebecca Liesenfeld",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/liesenre1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "liesenre1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:liesenre1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "liesenre1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/liesenre1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Ines Margalef Tejada",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/margalin1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/margalin1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Udo Maurer",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/maurerud1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/maurerud1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Laura Muraglia",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/muraglla1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/muraglla1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Elena Mühlhäuser",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/muehlhel1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "muehlhel1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:muehlhel1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "muehlhel1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/muehlhel1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Lisa Ngo",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/ngoli1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/ngoli1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Leonie Niederberger",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/niederle1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/niederle1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Joana Ortmann",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/ortmanjo1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/ortmanjo1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Thea Panu",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/panuth1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/panuth1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Mathilda Petri",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/petrima1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/petrima1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Georg Pfeiffer",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/pfeiffge1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/pfeiffge1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Quynh-Lan Pham",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/phamqu1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/phamqu1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Ole Plechinger",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/plechiol1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/plechiol1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Luka Primorac",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/primorlu1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/primorlu1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Maja Reimann",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/reimanma1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "reimanma1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:reimanma1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "reimanma1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/reimanma1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Luise Schick",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/schicklu1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/schicklu1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Clara Schmitz",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/schmitcl1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/schmitcl1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Amelie Schray",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/schrayam1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/schrayam1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Sven Schultze",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/schultsv2",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/schultsv2"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Amelie Schwahn",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/schwaham1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/schwaham1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Frieda Schönleben",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/schoenfr1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/schoenfr1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Caroline Schüle",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/schuelca1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/schuelca1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Hannah Schütt",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/schuetha1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/schuetha1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Maja Seeger",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/seegerma1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/seegerma1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Anna Maria Solano Bach",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/solanoan1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "solanoan1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:solanoan1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "solanoan1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/solanoan1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Nele Spieler",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/spielene1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/spielene1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Lilli Stahl",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/stahlli1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "stahlli1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:stahlli1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "stahlli1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/stahlli1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Paula Tramer",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/tramerpa1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "tramerpa1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:tramerpa1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "tramerpa1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/tramerpa1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Kristian Tröps",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/troepskr1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "troepskr1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:troepskr1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "troepskr1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/troepskr1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Kevin Valenti",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/valentke1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/valentke1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Sarah Veil",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/veilsa1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/veilsa1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Alina Waibler",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/waibleal1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/waibleal1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Alexander Waizel",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/waizelal1",
+          "appId": "profile"
+        },
+        "actions": [],
+        "lastMessage": "",
+        "emailAddresses": [],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/waizelal1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Maximilian Wängler",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/waenglma1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "waenglma1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:waenglma1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "waenglma1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/waenglma1"
+      }
+    ],
+    "contactsAppEnabled": false
+  },
+  {
+    "contacts": [
+      {
+        "id": null,
+        "fullName": "Aaron-Leon Edler von Querfurth",
+        "avatar": null,
+        "topAction": {
+          "title": "View profile",
+          "icon": "https://cloud.bg-schorndorf.de/core/img/actions/profile.svg",
+          "hyperlink": "https://cloud.bg-schorndorf.de/index.php/u/edlervaa1",
+          "appId": "profile"
+        },
+        "actions": [
+          {
+            "title": "edlervaa1@linuxmuster.lan",
+            "icon": "https://cloud.bg-schorndorf.de/core/img/actions/mail.svg",
+            "hyperlink": "mailto:edlervaa1@linuxmuster.lan",
+            "appId": "email"
+          }
+        ],
+        "lastMessage": "",
+        "emailAddresses": [
+          "edlervaa1@linuxmuster.lan"
+        ],
+        "profileTitle": "View profile",
+        "profileUrl": "https://cloud.bg-schorndorf.de/index.php/u/edlervaa1"
+      }
+    ],
+    "contactsAppEnabled": false
+  }
+]

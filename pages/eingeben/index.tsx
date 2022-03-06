@@ -55,7 +55,7 @@ export default function Eingeben() {
             <div>
               <h3 className="text-xl leading-6 font-medium text-gray-900">{user.name}</h3>
               <p className="mt-1 max-w-3xl text-sm text-gray-500">
-                Diese Eingaben werden so in der Abizeitung gedruckt.<br />Sei dir sicher, dass du das, was du eingibst, so gedruckt haben möchtest.<br />Nichtaufüllen von Feldern ist möglich.<br />Eingaben werden automatisch gespeichert.
+                Diese Eingaben werden so in der Abizeitung gedruckt.<br />Sei dir sicher, dass du das, was du eingibst, so gedruckt haben möchtest.<br />Nichtausfüllen von Feldern ist möglich.<br />Eingaben werden automatisch gespeichert.
               </p>
             </div>
             <div className="flex flex-col gap-4">
